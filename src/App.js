@@ -142,16 +142,18 @@ const styles = {
     alignItems: "center",
     fontFamily: "Segoe UI",
     overflow: "hidden",
+    padding: "20px 20px 20px 20px",
+    // boxSizing: "border-box",
     //position: "relative"
   },
 
   card: {
     background: "white",
-    padding: "40px",
+    padding: "30px",
     borderRadius: "20px",
     boxShadow: "0 10px 40px rgba(0,0,0,0.2)",
     textAlign: "center",
-    width: "90%",
+    width: "100%",
     maxWidth: "500px",
     zIndex: 2,
 
